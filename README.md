@@ -136,6 +136,4 @@ Apply clustering insights to targeted marketing, segmentation, anomaly detection
 
 Conclusion:
 This notebook is a demonstration of advanced data science expertise, showcasing not only the ability to execute technically robust clustering analyses, but also to interpret results for practical decision-making. The owner is well-qualified to lead data-driven projects and deliver measurable value in professional settings.
-
-
 Exploratory studies for product or policy decisions.
