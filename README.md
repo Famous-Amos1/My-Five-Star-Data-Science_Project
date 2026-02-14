@@ -111,4 +111,64 @@ Ability to translate complex models into simple insights
 Strong command of applied machine learning
 A results‑oriented mindset focused on value creation
 Clean, professional, and client‑ready analysis style
+
+
+JOB 3: TIME SERIES ANALYSIS
+
+Project Overview
+This project demonstrates a complete, industry-standard time series forecasting pipeline designed to transform raw historical data into accurate, decision-ready predictions.
+From data preprocessing and statistical validation to ARIMA/SARIMA modeling and performance evaluation, every step follows best practices used in real-world analytics and enterprise environments.
+If your organization needs reliable forecasts to guide strategy, operations, or investment decisions — this is the level of rigor you can expect.
+
+What This Project Demonstrates
+✔️ Structured data cleaning and preparation
+✔️ Stationarity testing (ADF) and transformation
+✔️ ACF/PACF-driven model selection
+✔️ ARIMA & Seasonal modeling (SARIMA)
+✔️ Train-test validation methodology
+✔️ Residual diagnostics and model validation
+✔️ Performance evaluation using MAE & RMSE
+✔️ Clear interpretation of results for decision-makers
+
+ Why This Matters for Your Business
+Accurate forecasting enables:
+Smarter financial planning
+Optimized inventory & supply chain decisions
+Climate and environmental projections
+
+Healthcare demand prediction
+Operational efficiency improvements
+Risk management and strategic forecasting
+I don’t just build models — I build decision-support systems.
+
+My Approach
+Every project I take on follows a proven framework:
+Understand the business problem
+Explore and validate the data
+Select statistically appropriate models
+Validate assumptions and test performance
+Deliver interpretable insights
+Optimize for accuracy and scalability
+
+No guesswork. No black-box shortcuts. Just rigorous, explainable data science.
+
+What You Get When You Work With ME
+Clean, production-ready code
+Reproducible analysiS
+Clear documentation
+Insight-driven reporting
+Transparent evaluation metrics
+Professional communication throughout the project
+
+Let’s Work Together
+
+If you need:
+Forecasting solutions
+Predictive modeling
+Data-driven business strategy
+Advanced statistical analysis
+Academic or enterprise-level data science work
+I’m ready to deliver results that move your business forward.
+
+
 This is the kind of work expected from someone who understands both data science and the business context it serves.
